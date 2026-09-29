@@ -1,0 +1,22 @@
+# --- Frontend ---
+streamlit
+pandas
+
+# --- LangGraph / LangChain core ---
+langgraph
+langchain-core
+langchain-openai
+langchain-community      # provides TavilySearchResults used in research_node
+
+# --- Research (Tavily) ---
+tavily-python             # underlying client used by langchain-community's Tavily tool
+
+# --- Schemas / config ---
+pydantic
+python-dotenv
+
+# --- Image generation (Gemini) ---
+google-genai
+
+# --- Observability ---
+langsmith
