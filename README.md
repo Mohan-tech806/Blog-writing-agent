@@ -63,8 +63,7 @@ The Blog Writing Agent automates this process using a multi-agent workflow built
 
 ## Application Screenshot
 
-<img width="862" height="482" alt="streamlit_screenshot" src="https://github.com/user-attachments/assets/5e295c6a-26cf-4dc8-bc95-cd92bbcd8a09" />
-
+![Blog Writing Agent Streamlit Interface](streamlit_screenshot.png)
 
 
 ## Installation
