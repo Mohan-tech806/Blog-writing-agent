@@ -60,9 +60,11 @@ The Blog Writing Agent automates this process using a multi-agent workflow built
 
 
 
-## Workflow Diagram
 
-![Blog Writing Agent Workflow](workflow.png)
+## Application Screenshot
+
+![Blog Writing Agent Streamlit Interface](https://github.com/user-attachments/assets/f3d7b11-b48e-4ebf-b2b5-ef36be03fa6c)
+
 
 ## Installation
 
